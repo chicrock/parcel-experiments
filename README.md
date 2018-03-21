@@ -4,6 +4,7 @@ Setting up React project with Parcel
 
 *   [Parcel js](https://parceljs.org/)
 *   [PostCSS](http://postcss.org)
+*   [Typography](https://kyleamathews.github.io/typography.js/)
 
 ```bash
 # When use node on nvm use `npm -g` instead of `yarn global`
@@ -13,6 +14,7 @@ Setting up React project with Parcel
 ]$ yarn add babel-preset-env babel-preset-react --dev
 ]$ yarn add postcss-modules
 ]$ yarn add autoprefixer
+]$ yarn add typography
 ```
 
 ## Feature
